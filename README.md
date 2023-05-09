@@ -6,6 +6,7 @@
 💬 Ask me about JavaScript <br>
 ⚡ Fun fact
 
+https://resume-page.000webhostapp.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/horla_techs) 
