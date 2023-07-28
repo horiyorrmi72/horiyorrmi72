@@ -1,12 +1,6 @@
 # 💫 About Me:
-"Hello there! I am a backend engineer with experience in mobile web development and console applications. I participated in the GADS20 program where I honed my skills in mobile web development and also took part in the alx africa program where I built a console application with my partner. I am proficient in various programming languages such as C, JavaScript, Node.js, Python, Flask, Bash scripting, shell, hosting and have built my own personal portfolio website. I am passionate about using my skills to build practical solutions to real-world problems. My projects showcase my diverse skill set and highlight my ability to work collaboratively and independently. If you have any questions or would like to collaborate on a project, feel free to reach out!"<br>
-🔭 I’m currently working on my skills <br>
-👯 I’m looking to collaborate on projects<br>
-🤝 I’m looking for help with ideas🌱<br>
+"Hello there! I am a backend engineer with experience in mobile web development,i participated in the GADS20 program where I honed my skills in mobile web development and also took part in the alx africa program where I built a console application with my partner. I am proficient in various programming languages and frameworks/library such as C, JavaScript, Node.js, Python, Flask, Bash scripting, shell, hosting and have built my own personal portfolio website. I am passionate about using my skills to build practical solutions to real-world problems. My projects showcase my diverse skill set and highlight my ability to work collaboratively and independently. If you have any questions or would like to collaborate on a project, feel free to reach out!"<br>
 💬 Ask me about JavaScript <br>
-⚡ Fun fact
-
-https://resume-page.000webhostapp.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/horla_techs) 
@@ -52,14 +46,11 @@ https://resume-page.000webhostapp.com
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=horiyorrmi72&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Yusuf Ridwan) <br> [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Horla_techs) 
+  - [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Horla_techs)
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
