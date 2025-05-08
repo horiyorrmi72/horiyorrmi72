@@ -3,7 +3,8 @@ I'm Yusuf Ridwan, a fullstack developer with a strong emphasis on backend engine
 
 With proficiency in **C, JavaScript, Node.js, NestJS, Python, Flask, Bash, Shell scripting, Angular, Next.js**, and **Tailwind CSS**, I write clean, maintainable code across the stack. I also have experience in **web hosting, deployment**, and infrastructure setup.
 
-Driven by curiosity and a commitment to continuous improvement, I thrive in both collaborative and independent environments. My work reflects a balance of performance, clarity, and practicality — whether integrating AI into systems or architecting backend infrastructure.
+Driven by curiosity and a commitment to continuous improvement, I excel in both collaborative and independent environments. My work reflects a balance of performance, clarity, and practicality whether integrating AI into systems or architecting backend infrastructure.
+Feel free to reach out for collaborations, freelance opportunities, or technical discussions [horiyorrmi72@gmail.com]
 
 🔧 **Areas of focus**: Backend Development, AI Integration, System Design  
 📬 **Open to**: Collaboration, freelance opportunities, and technical challenges
