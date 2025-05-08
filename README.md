@@ -41,6 +41,8 @@ Driven by curiosity and a commitment to continuous improvement, I thrive in both
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
+![Supertest](https://img.shields.io/badge/Supertest-FF6C37?style=plastic&logo=supertest&logoColor=white)
+
 ---
 
 # 📊 GitHub Stats:
